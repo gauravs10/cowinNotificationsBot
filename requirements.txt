@@ -1,0 +1,9 @@
+requests
+datetime
+fake_useragent
+typing
+schedule
+flask
+psycopg2
+gunicorn
+python-telegram-bot
